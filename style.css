@@ -1,0 +1,65 @@
+#header {
+    background-color: #0074d9;
+    color: #fff;
+    padding: 20px;
+    text-align: center;
+}
+/* Estilizando o cabeçalho */
+.header {
+    font-family: Arial, sans-serif;
+    background-color: #f5f5f5;
+    padding: 20px;
+}
+/* Estilizando o título do cabeçalho */
+.header h1 {
+    font-size: 24px;
+    color: #333;
+}
+/* Estilizando as informações de contato */
+.contact-info {
+    font-size: 16px;
+    margin-bottom: 10px;
+}
+/* Estilizando o perfil profissional */
+.profile {
+    font-size: 18px;
+    margin-top: 20px;
+}
+/* Estilizando a seção de experiência profissional */
+.experience {
+    font-size: 16px;
+    margin-top: 20px;
+}
+/* Estilizando os títulos das experiências */
+.experience h3 {
+    font-size: 20px;
+    color: #0074d9;
+}
+/* Estilizando os títulos das habilidades */
+.habilites {
+    font-size: 16px;
+    margin-top: 20px;
+}
+.habilites li {
+	font-size: 15px;
+	color: #0074d9;
+}
+/* Estilizando os títulos da educação */
+.education {
+    font-size: 16px;
+    margin-top: 20px;
+}
+/* Estilizando os títulos dos projetos */
+.projects li {
+	font-size: 20px;
+	color: #FF0000;
+}
+/* Estilizando os títulos dos certificados */
+.certificates p {
+	font-size: 20px;
+	color: #FF0000;
+}
+/* Estilizando os títulos dos interesses */
+.interess h2 {
+	font-family: "Comic Sans MS", cursive;
+}
